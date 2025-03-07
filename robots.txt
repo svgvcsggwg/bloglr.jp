@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jp.bloglr.com/sitemap.xml
